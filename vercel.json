@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/50-shades-of-nptel.html"
+    }
+  ]
+}
